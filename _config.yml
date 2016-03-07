@@ -1,7 +1,7 @@
 name: IoT Marketing
 favicon: null
 layout_spectrum: 0.50167
-typography_spectrum: 0.9307196
+typography_spectrum: 0.75413
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.5398403
   saturation: 0.7835661
   rhythmicContrast: 0.8782654
